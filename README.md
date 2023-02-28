@@ -7,8 +7,8 @@ This is useful in a variety of industries, including product recommendation, aff
 ## Prerequisites:
 #### Python 3.6+
 #### Python Libraries:
-Numpy
-Pandas
+#Numpy
+#Pandas
 Matplotlib
 Seaborn
 Sckit-Learn
