@@ -7,13 +7,13 @@ This is useful in a variety of industries, including product recommendation, aff
 ## Prerequisites:
 #### Python 3.6+
 #### Python Libraries:
-#Numpy
-#Pandas
-Matplotlib
-Seaborn
-Sckit-Learn
-Keras
-Librosa
+- Numpy
+* Pandas
++ Matplotlib
+- Seaborn
+* Sckit-Learn
++ Keras
+- Librosa
 
 ## Dataset:
 This repository used 3 datasets which are downloaded from kaggle.
@@ -25,9 +25,9 @@ Crowd Sourced Emotional Multimodal Actors Dataset (CREMA-D) is a data set of 7,4
 speech emotion annotated data for emotion recognition systems is a data set of four native English male speakers (identified as DC, JE, JK, KL), postgraduate students and researchers at the University of Surrey aged from 27 to 31 years.
 
 ## Dataset Download Link:
-SAVEE: https://www.kaggle.com/datasets/barelydedicated/savee-database
-CREMA-D: https://www.kaggle.com/datasets/ejlok1/cremad
-RAVDESS: https://www.kaggle.com/datasets/uwrfkaggler/ravdess-emotional-speech-audio
+- [SAVEE](https://www.kaggle.com/datasets/barelydedicated/savee-database)
+- [CREMA-D](https://www.kaggle.com/datasets/ejlok1/cremad)
+- [RAVDESS](https://www.kaggle.com/datasets/uwrfkaggler/ravdess-emotional-speech-audio)
 
 
 
